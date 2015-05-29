@@ -1,0 +1,8 @@
+<Bundle name="ApacheApp" version="1.0" system="false">
+  <status>UNINSTALLED</status>
+  <owner>info@logscape.com</owner>
+  <services>
+	<Service>     	
+	</Service>
+  </services>
+</Bundle>
