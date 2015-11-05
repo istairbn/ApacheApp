@@ -1,7 +1,6 @@
 # ApacheApp
 #A Logscape App for monitoring Apache Servers
 #Creator: Benjamin Newton
-#Contact: Ben.Newton@excelian.com
 
 Apache App 1.0
 
